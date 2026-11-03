@@ -7,6 +7,7 @@ My personal DevOps homelab: scripts, write-ups, and infrastructure-as-code proje
    
    **Как это работает:**
    Задача добавлена в планировщик `cron` через `crontab -e`:
+   
    ```bash
    0 3 * * * /home/kali/first_script.sh >> /home/kali/logs/cron_run.log 2>&1
 
