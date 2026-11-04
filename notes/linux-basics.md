@@ -128,3 +128,6 @@ top
 
 ---
 *Моя личная шпаргалка DevOps-инженера. Обновлено: 2026-11-03*
+
+### Мой первый отчёт о системе
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a78f305b-2da6-4a5c-95ad-7d2929bd5e68" />
