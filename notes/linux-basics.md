@@ -264,7 +264,8 @@ free -m                          # В мегабайтах
 
 **Пример вывода`free -h`:**
 
-<img width="771" height="682" alt="image" src="https://github.com/user-attachments/assets/f5ed5cc9-d232-43ba-9905-2115164753da" />
+<img width="771" height="682" alt="image" src="https://github.com/user-attachments/assets/800576f6-0df6-4cfa-8ad2-bfb24900bc3e" />
+
 
 *Смотри на колонку **available**, а не free! Linux использует свободную память под кэш.*
 
