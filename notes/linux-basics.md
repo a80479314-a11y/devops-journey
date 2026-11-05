@@ -261,6 +261,11 @@ atop                             # Продвинутый мониторинг
 free -h                          # Оперативная память (human-readable)
 free -m                          # В мегабайтах
 ```
+
+**Пример вывода`free -h`:**
+
+<img width="771" height="682" alt="image" src="https://github.com/user-attachments/assets/f5ed5cc9-d232-43ba-9905-2115164753da" />
+
 *Смотри на колонку **available**, а не free! Linux использует свободную память под кэш.*
 
 ### Диск
