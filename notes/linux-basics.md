@@ -278,6 +278,7 @@ du -sh folder/                   # Размер конкретной папки
 ```
 
 **Пример вывода `df -h`:**
+
 <img width="714" height="202" alt="Screenshot From 2026-11-05 14-43-29" src="https://github.com/user-attachments/assets/fafafd33-ce9b-43f2-af16-f4f22b94fca4" />
 
 
