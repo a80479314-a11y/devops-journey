@@ -410,6 +410,7 @@ exit
 ### Генерация SSH-ключей
 
 Вывод`ssh-keygen`
+
 <img width="684" height="435" alt="Screenshot From 2026-11-13 19-10-25 (Edited) (Edited)" src="https://github.com/user-attachments/assets/53d7c131-d935-4702-b3e6-c7b4f6babbdc" />
 
 *(вставить скриншот вывода `` и `ls -la ~/.ssh/`)*
