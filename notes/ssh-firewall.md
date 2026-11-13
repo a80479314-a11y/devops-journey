@@ -413,7 +413,10 @@ exit
 
 <img width="684" height="435" alt="Screenshot From 2026-11-13 19-10-25 (Edited) (Edited)" src="https://github.com/user-attachments/assets/53d7c131-d935-4702-b3e6-c7b4f6babbdc" />
 
-*(вставить скриншот вывода `` и `ls -la ~/.ssh/`)*
+Вывод`ls -la ~/.ssh/`
+
+<img width="528" height="185" alt="Screenshot From 2026-11-13 19-14-11 (Edited) (Edited)" src="https://github.com/user-attachments/assets/fc0ae9d7-345e-4f61-9fca-1842810bb12b" />
+
 
 ### Вход без пароля
 *(вставить скриншот успешного `ssh amal@localhost`)*
