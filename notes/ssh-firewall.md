@@ -419,9 +419,17 @@ exit
 
 
 ### Вход без пароля
+
+<img width="597" height="311" alt="Screenshot From 2026-11-13 19-24-03 (Edited) (Edited)" src="https://github.com/user-attachments/assets/46378e52-1399-477e-b58e-3f941d409f9f" />
+
+
 *(вставить скриншот успешного `ssh amal@localhost`)*
 
 ### Статус Firewall
+
+<img width="542" height="239" alt="Screenshot From 2026-11-13 19-25-43 (Edited) (Edited)" src="https://github.com/user-attachments/assets/4769809e-3275-44ee-a14a-9209bedaa18a" />
+
+
 *(вставить скриншот `sudo ufw status verbose`)*
 
 ---
